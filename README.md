@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Surajit Nandi
-- 👀 I’m interested in cheminformatics, computational chemistry, machine learning.
-- 🌱 I’m currently diving into the machine learning part.
+- 👀 I’m interested in cheminformatics, computational chemistry, and machine learning.
+- 🌱 Currently, I do machine learning based reaction path modelling.
 - 💞️ I’m looking to collaborate on any project involving protein, biomolecules, etc. that I can help with.
 - I also help developed another software [PyAR](https://github.com/anooplab/pyar)
 
